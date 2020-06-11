@@ -1,3 +1,7 @@
 oooooooooooooooo
 teste di abobado
+<<<<<<< HEAD
 master goooo
+=======
+essa linha foi mudada no ramo tesste
+>>>>>>> tesste
